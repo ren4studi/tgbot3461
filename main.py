@@ -23,7 +23,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-TOKEN = '8196464808:AAGVsYJ3-chL4dSkEok8-zzB7KWGI8wMGHs'
+TOKEN = 'ТОКЕН'
 LOG_GROUP_ID = -1002544928117
 
 # сначала название монет в кнопке потом хуйня для коингеко
